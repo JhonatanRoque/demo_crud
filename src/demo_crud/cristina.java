@@ -13,6 +13,10 @@ public static void main(String[] args){
             i=i+2;
             bra='f';
         }
-
+else
+        {
+            i=i+3;
+            bra='t';
+        }
 
 
