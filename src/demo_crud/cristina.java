@@ -8,6 +8,11 @@ public static void main(String[] args){
     for(i=0;i<=797;i=i)
     {
        
+        if(bra=='t')
+        {
+            i=i+2;
+            bra='f';
+        }
 
 
 
