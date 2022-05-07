@@ -7,6 +7,7 @@ public class Nestor {
     private int edad;
     private String Direccion;
     private int Telefono;
+    private int Dui;
 }
 
     
