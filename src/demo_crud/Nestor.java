@@ -6,6 +6,7 @@ public class Nestor {
     private String apellidos;
     private int edad;
     private String Direccion;
+    private int Telefono;
 }
 
     
